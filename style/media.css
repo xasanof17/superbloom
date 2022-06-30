@@ -85,18 +85,6 @@
     .section__5-left p {
         line-height: 28px;
     }
-    
-    /* .header__nav{
-        background: rgb(255, 255, 255, 0.8);
-        width: 100%;
-        flex-wrap: wrap;
-        position: fixed;
-        left: 0;
-        top: 0;
-        right: 10px;
-        padding-left: 5px;
-        padding-right: 5px;
-    } */
 }
 
 @media(max-width: 991px) {
@@ -164,9 +152,9 @@
     .section__4-right h3 {
         font-size: 33px;
     }
-    .header__nav {
+/*     .header__nav {
         padding: 10px;
-    }
+    } */
     /* Burger Menu */
 
     .header__list {
